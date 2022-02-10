@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Χαρακτήρες/Αντλοου.md",
+            "file": "Sessions/1.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Χαρακτήρες/Αντλοου.md",
+                "file": "Sessions/1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,9 +87,11 @@
   },
   "active": "041717908afd3c3e",
   "lastOpenFiles": [
-    "Χαρακτήρες/Αντλοου.md",
+    "Sessions/1.md",
     "Χαρακτήρες/Βιτόρια.md",
     "Τοποθεσίες/Ζαστιγιοφ.md",
+    "Χαρακτήρες/Αντλοου.md",
+    "index.md",
     "Τοποθεσίες/Πανεπιστήμιο.md",
     "Χαρακτήρες.md",
     "Οργανώσεις/Κυρ Γιολιθ.md",
