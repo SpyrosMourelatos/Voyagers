@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sessions/1.md",
+            "file": "Sessions/8.md",
             "mode": "source"
           }
         }
@@ -18,84 +18,70 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "e1b1882dee2a1860",
-    "type": "split",
+    "id": "aee7d0707221a4a5",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "bee27a17974e9780",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d68162cfa0fc9961",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "91c25e87fd948029",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
+        "id": "09eec29ce660cf29",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "24af82194c548a58",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ]
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300
+    "currentTab": 0
   },
   "right": {
-    "id": "37c147aa22b7a25e",
-    "type": "split",
+    "id": "260697deaaddae33",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "c87519a44c6cbcde",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "18fc165371727f62",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Sessions/1.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": true,
-                "unlinkedCollapsed": false
-              }
-            }
+        "id": "2fc5590e51d99408",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Sessions/8.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
           }
-        ]
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300
+    "currentTab": 0
   },
   "active": "041717908afd3c3e",
   "lastOpenFiles": [
-    "Sessions/1.md",
-    "Χαρακτήρες/Βιτόρια.md",
-    "Τοποθεσίες/Ζαστιγιοφ.md",
-    "Χαρακτήρες/Αντλοου.md",
-    "index.md",
-    "Τοποθεσίες/Πανεπιστήμιο.md",
-    "Χαρακτήρες.md",
+    "Sessions/8.md",
+    "Χαρακτήρες/Κιζιρε.md",
+    "Οργανώσεις/Ψεύτικοι Φομοριανς.md",
+    "Χαρακτήρες/Γιασκα.md",
+    "Χαρακτήρες/Αρ Αβαρ.md",
+    "Οργανώσεις/Λιονγκαρντ.md",
+    "Χαρακτήρες/Σκαρλορντ.md",
     "Οργανώσεις/Κυρ Γιολιθ.md",
-    "Folder/Αντλοου.md",
-    "Untitled 1.md"
+    "Sessions/1.md",
+    "Χαρακτήρες/Βιτόρια.md"
   ]
 }
