@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sessions/8.md",
+            "file": "Χαρακτήρες/Σκαρλορντ.md",
             "mode": "source"
           }
         }
@@ -18,70 +18,84 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "aee7d0707221a4a5",
-    "type": "mobile-drawer",
+    "id": "a2040aaa1e5fea75",
+    "type": "split",
     "children": [
       {
-        "id": "09eec29ce660cf29",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
-      },
-      {
-        "id": "24af82194c548a58",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
+        "id": "0285ce89477a7d85",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3cef6c34fe1a9945",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "54399fb1b0aa7764",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
           }
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300
   },
   "right": {
-    "id": "260697deaaddae33",
-    "type": "mobile-drawer",
+    "id": "42f46cce2f57118d",
+    "type": "split",
     "children": [
       {
-        "id": "2fc5590e51d99408",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "file": "Sessions/8.md",
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
+        "id": "796b5f02a5be10a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e38aea1b67dc9190",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Χαρακτήρες/Σκαρλορντ.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300
   },
   "active": "041717908afd3c3e",
   "lastOpenFiles": [
-    "Sessions/8.md",
-    "κορακι.md",
-    "Ναρανεα.md",
-    "Ουστόρμ.md",
-    "Σεμπαστιαν.md",
+    "Χαρακτήρες/Σκαρλορντ.md",
+    "Χαρακτήρες/κορακι.md",
     "Χαρακτήρες/Γιασκα.md",
     "Οργανώσεις/Ψεύτικοι Φομοριανς.md",
-    "Χαρακτήρες/Σκαρλορντ.md",
-    "Ψευτικοι Φομοριανς.md",
-    "Χαρακτήρες/Κιζιρε.md"
+    "Οργανώσεις/Ψευτικοι Φομοριανς.md",
+    "Οργανώσεις/Λιονγκαρντ.md",
+    "Sessions/8.md",
+    "Χαρακτήρες/Ναρανεα.md",
+    "Τοποθεσίες/Ουστόρμ.md",
+    "Χαρακτήρες/Σεμπαστιαν.md"
   ]
 }
