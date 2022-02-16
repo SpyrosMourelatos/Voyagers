@@ -1,22 +1,51 @@
 {
-  "collapse-filter": true,
-  "search": "",
+  "collapse-filter": false,
+  "search": "file:Σεμπ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
-  "colorGroups": [],
-  "collapse-display": false,
+  "colorGroups": [
+    {
+      "query": "path:Οργανώσεις",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:Τοποθεσίες",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:Χαρακτήρες",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:Sessions",
+      "color": {
+        "a": 1,
+        "rgb": 1245347
+      }
+    }
+  ],
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0.2,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
-  "collapse-forces": false,
-  "centerStrength": 0.247863247863248,
-  "repelStrength": 14.017094017094,
-  "linkStrength": 0.820512820512821,
-  "linkDistance": 30,
-  "scale": 0.6989606412938241,
-  "close": true
+  "nodeSizeMultiplier": 1.15163562809514,
+  "lineSizeMultiplier": 0.976989607309758,
+  "collapse-forces": true,
+  "centerStrength": 0.125340029294832,
+  "repelStrength": 7.77429029783079,
+  "linkStrength": 0.830647973774151,
+  "linkDistance": 171,
+  "scale": 0.32410436405498166,
+  "close": false
 }

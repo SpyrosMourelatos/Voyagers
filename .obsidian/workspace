@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Χαρακτήρες/Σκαρλορντ.md",
+            "file": "Χαρακτήρες/Σεμπαστιαν.md",
             "mode": "source"
           }
         }
@@ -68,14 +68,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Χαρακτήρες/Σκαρλορντ.md",
+                "file": "Χαρακτήρες/Σεμπαστιαν.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           }
@@ -87,15 +87,15 @@
   },
   "active": "041717908afd3c3e",
   "lastOpenFiles": [
-    "Χαρακτήρες/Σκαρλορντ.md",
-    "Χαρακτήρες/κορακι.md",
-    "Χαρακτήρες/Γιασκα.md",
-    "Οργανώσεις/Ψεύτικοι Φομοριανς.md",
-    "Οργανώσεις/Ψευτικοι Φομοριανς.md",
+    "Χαρακτήρες/Σεμπαστιαν.md",
+    "Οργανώσεις/Κυρ Γιολιθ.md",
+    "Faction.md",
     "Οργανώσεις/Λιονγκαρντ.md",
+    "Blood Hunters.md",
     "Sessions/8.md",
-    "Χαρακτήρες/Ναρανεα.md",
-    "Τοποθεσίες/Ουστόρμ.md",
-    "Χαρακτήρες/Σεμπαστιαν.md"
+    "Χαρακτήρες/Κόρμακ.md",
+    "Sessions/1.md",
+    "Χαρακτήρες/Μπασκ.md",
+    "Χαρακτήρες/Ζαν.md"
   ]
 }
