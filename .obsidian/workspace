@@ -9,8 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sessions/8.md",
-            "mode": "source"
+            "file": "Sessions/12.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -57,7 +58,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Sessions/8.md",
+            "file": "Sessions/12.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -73,15 +74,15 @@
   },
   "active": "041717908afd3c3e",
   "lastOpenFiles": [
-    "Sessions/8.md",
-    "κορακι.md",
-    "Ναρανεα.md",
-    "Ουστόρμ.md",
-    "Σεμπαστιαν.md",
-    "Χαρακτήρες/Γιασκα.md",
-    "Οργανώσεις/Ψεύτικοι Φομοριανς.md",
-    "Χαρακτήρες/Σκαρλορντ.md",
-    "Ψευτικοι Φομοριανς.md",
-    "Χαρακτήρες/Κιζιρε.md"
+    "Sessions/12.md",
+    "Χαρακτήρες/Μαλαφαρ.md",
+    "Χαρακτήρες/Αβρελ.md",
+    "Χαρακτήρες/κορακι.md",
+    "Χαρακτήρες/Αβρελ 1.md",
+    "Χαρακτήρες/Αζακ.md",
+    "Τοποθεσίες/Τουσουρ.md",
+    "Οργανώσεις/wild hunt.md",
+    "Οργανώσεις/Seath.md",
+    "Χαρακτήρες/Αλαζα.md"
   ]
 }
